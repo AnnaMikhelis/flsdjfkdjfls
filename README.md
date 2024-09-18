@@ -1,1 +1,0 @@
-# project_kata_1.4
